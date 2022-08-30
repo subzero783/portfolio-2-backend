@@ -14,7 +14,7 @@ dotenv.config()
 
 app.use(express.static(path.join(__dirname, '/build')));
 
-app.use(bodyParser.json()); 
+app.use(bodyParser.json());  
 
 app.get('/api/message/', async(req, res) => {
     res.status(200).json({
