@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5c941ed.css",
-    "main.js": "/static/js/main.3711ef10.js",
+    "main.css": "/static/css/main.8a4df499.css",
+    "main.js": "/static/js/main.b865e94d.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/Teko-SemiBold.eot": "/static/media/Teko-SemiBold.4c47aef54e7ed24e40a9.eot",
     "static/media/Teko-SemiBold.ttf": "/static/media/Teko-SemiBold.18edf1408a631a75a8c3.ttf",
@@ -96,12 +96,12 @@
     "static/media/Poppins-Black.woff2": "/static/media/Poppins-Black.9f8a4a5f1e0fe91ec9f7.woff2",
     "static/media/Poppins-Thin.woff2": "/static/media/Poppins-Thin.852bafc278ec1d018963.woff2",
     "index.html": "/index.html",
-    "main.e5c941ed.css.map": "/static/css/main.e5c941ed.css.map",
-    "main.3711ef10.js.map": "/static/js/main.3711ef10.js.map",
+    "main.8a4df499.css.map": "/static/css/main.8a4df499.css.map",
+    "main.b865e94d.js.map": "/static/js/main.b865e94d.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5c941ed.css",
-    "static/js/main.3711ef10.js"
+    "static/css/main.8a4df499.css",
+    "static/js/main.b865e94d.js"
   ]
 }
