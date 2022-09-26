@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const dotenv = require('dotenv');
 const path = require('path');
 const cookieParser = require('cookie-parser');
-const nodemailer = require('nodemailer');
+
 
 const app = express();
 
@@ -21,6 +21,10 @@ app.get('/api/message/', async(req, res) => {
         message: 'Welcome to the backend'
     });
 });
+
+app.get('/api/contact/', async(req, res)=>{
+    addContactEmail(req, res);
+})
 
 app.get('*', (req, res) => {
     res.sendFile(path.join(__dirname + '/build/index.html'));
