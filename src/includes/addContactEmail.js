@@ -12,7 +12,7 @@ const url = require('url');
 
 const bodyParser = require('body-parser');
 const sgMail = require('@sendgrid/mail');
-sgMail.setApiKey(process.env.SENDGRID_API_KEY);
+sgMail.setApiKey(process.env.SEND_GRID_API_KEY);
 
 router.use(bodyParser.urlencoded({extended: true}));
 router.use(bodyParser.json());
