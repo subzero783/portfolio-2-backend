@@ -4,6 +4,7 @@ const bodyParser = require('body-parser');
 const dotenv = require('dotenv');
 const path = require('path');
 const cookieParser = require('cookie-parser');
+const addContactEmail = require('../backend/src/includes/addContactEmail');
 
 
 const app = express();
