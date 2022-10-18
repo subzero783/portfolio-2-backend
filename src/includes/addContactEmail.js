@@ -7,7 +7,7 @@ router.use(express.json());
 const dotenv = require('dotenv');
 dotenv.config();
 
-const client = require('../includes/databaseConnect');
+const client = require('./databaseConnect');
 const url = require('url');
 
 const bodyParser = require('body-parser');
