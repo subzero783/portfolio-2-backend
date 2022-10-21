@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2811b8f3.css",
-    "main.js": "/static/js/main.c9946405.js",
+    "main.css": "/static/css/main.13dd2940.css",
+    "main.js": "/static/js/main.5da41797.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/green.jpg": "/static/media/green.5ee8968f37fc415a460c.jpg",
     "static/media/Teko-SemiBold.eot": "/static/media/Teko-SemiBold.4c47aef54e7ed24e40a9.eot",
@@ -111,12 +111,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.2811b8f3.css.map": "/static/css/main.2811b8f3.css.map",
-    "main.c9946405.js.map": "/static/js/main.c9946405.js.map",
+    "main.13dd2940.css.map": "/static/css/main.13dd2940.css.map",
+    "main.5da41797.js.map": "/static/js/main.5da41797.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2811b8f3.css",
-    "static/js/main.c9946405.js"
+    "static/css/main.13dd2940.css",
+    "static/js/main.5da41797.js"
   ]
 }
