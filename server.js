@@ -17,7 +17,7 @@ app.set('forceSSLOptions', {
     sslRequiredMessage: 'SSL Required.'
 });
 
-app.use(forceSSL);
+// app.use(forceSSL);
 
 app.use(cookieParser());
 
